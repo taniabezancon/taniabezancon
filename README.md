@@ -31,5 +31,4 @@ My name is Tania Bezancon. I am a Computer Science student at Epitech, Lyon in F
 
 ## 🔍  Where to find me
 [![Twitter: Tania_BZN](https://img.shields.io/twitter/follow/Tania_BZN?style=social)](https://twitter.com/Tania_BZN)
-// Ajouter Linkedin et Medium
 [![GitHub taniabezancon](https://img.shields.io/github/followers/taniabezancon?label=follow&style=social)](https://github.com/taniabezancon)
