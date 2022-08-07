@@ -1,8 +1,13 @@
+ ![TANIA BEZANCON](https://user-images.githubusercontent.com/87010134/183315818-19e32d1d-4520-4349-b466-49870b6fcc6c.jpg)
+ 
+ <br />
+ <br />
+
 My name is Tania Bezancon. I am a Computer Science student at Epitech, Lyon in France. 🥐
 <br />
- <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em> 
- <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
-
+ <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em> <a href="https://www.thoughtworks.com"></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<br />
+<br />
 ## 🛠  Technologies and tools
 
 <a name="learning-now"></a>
