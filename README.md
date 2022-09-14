@@ -32,6 +32,13 @@ My name is Tania Bezancon. I am a Computer Science student at Epitech, Lyon in F
 
 ## 📖  What I am currently learning / improving on
 
+In recent years I have focused on mobile development so I trained in
+ReactNative
+TypeScript
+Jest
+
+I am in my 3rd year of schooling at Epitech so I also had the opportunity to be fully trained in C, C++ as well as other languages that are added during the projects.
+
 ## 👾  What I am interested in learning at some point
 
 ## 🔍  Where to find me
